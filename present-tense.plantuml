@@ -1,0 +1,241 @@
+@startmindmap
+<style>
+    mindmapDiagram {
+        .tense {
+            BackgroundColor black
+            FontColor white
+        }
+        .green {
+            BackgroundColor lightgreen
+        }
+        .rose {
+            BackgroundColor #FFBBCC
+        }
+        .orange {
+            BackgroundColor orange
+        }
+        .blue {
+            BackgroundColor LightBlue
+        }
+        .red {
+            BackgroundColor red
+        }
+        .khangdinh {
+            BackgroundColor LightCoral
+        }
+        .phudinh {
+            BackgroundColor LightCyan
+        }
+        .nghivan {
+            BackgroundColor LightSalmon
+        }
+    }
+</style>
+
+* Thì hiện tại
+
+** Hiện tại đơn <<tense>>
+*** Công thức <<orange>>
+**** Thể khẳng định <<blue>>
+***** Động từ tobe
+****** Subject + is/am/are + O <<khangdinh>>
+***** Động từ thường
+****** Subject + V(s/es) + O <<khangdinh>>
+**** Thể phủ định <<blue>>
+***** Động từ tobe
+****** Subject + is/am/are + not + O <<phudinh>>
+***** Động từ thường
+****** Subject + don’t/doesn’t + V + O <<phudinh>>
+**** Thể nghi vấn <<blue>>
+***** Động từ tobe
+****** Am/is/are + subject + O? <<nghivan>>
+***** Động từ thường
+****** Do/Does + subject + V + O? <<nghivan>>
+***:Diễn đạt thói quen/ hành động lặp đi lặp lại trong thời điểm hiện tại
+Ex: My boyfriend always gets up early. (Bạn trai của tôi lúc nào cũng dậy sớm.);
+***: Diễn tả một chân lý, một sự thật hiển nhiên
+Ex: Tiger is a mammal. (Hổ là động vật có vú.);
+***: Diễn tả một sự việc xảy ra theo thời gian biểu cụ thể
+Ex: The sky train in Hong Kong leaves at 5.55 a.m tomorrow.;
+***: Diễn tả trạng thái, cảm giác, cảm xúc của một chủ thể
+Ex: Kevin gets a headache and a slight fever. (Kevin bị đau đầu và sốt nhẹ.);
+***: Dấu hiệu nhận biết:
++ Always: Luôn luôn
++ Frequently: Thường xuyên
++ Usually: Thường thường
++ Often: Thường
++ Generally: Thường thường
++ Regularly: Thường xuyên
++ Sometimes: Thỉnh thoảng
++ Seldom: Hiếm khi
++ Rarely: Rất hiếm khi
++ Hardly: Hầu như không
++ Never: Không bao giờ
++ Every + khoảng thời gian hoặc thời điểm (day, week, month, year, January, summer…)
++ Once, twice, three times, four times… + khoảng thời gian (a day, week, month, year,…);<<green>>
+
+** Hiện tại tiếp diễn <<tense>>
+*** Công thức <<orange>>
+**** Thể khẳng định <<blue>>
+***** Subject + is/am/are + V_ing + O <<khangdinh>>
+**** Thể phủ định <<blue>>
+***** Subject + is/am/are + not + V_ing + O <<phudinh>>
+**** Thể nghi vấn <<blue>>
+***** Am/is/are + subject + V_ing + O? <<nghivan>>
+***: Diễn tả sự việc/ hành động đang xảy ra tại thời điểm nói
+Ex: They are watching TV <b>now</b> (Họ đang xem TV lúc này);
+***: Diễn tả sự việc/ hành động đang xảy ra không nhất thiết tại thời điểm nói
+Ex: I am finding a job (Tôi đang đi tìm việc);
+***: Diễn tả sự việc/ hành động sắp xảy ra trong tương lai gần
+Ex: 
+    + I am flying to Kyoto tomorrow (Tôi sẽ bay đến Kyoto vào ngày mai)
+    + What are you doing next week? (Bạn sẽ làm gì tuần sau?);
+***: Diễn tả 1 sự việc lặp đi lặp lại mang tính chất lặp đi lặp lại
+Note: Thì hiện tại tiếp diễn còn dùng để <b>phàn nàn</b> về 1 sự việc mang tính lặp đi lặp lại 
+đến mức <b>khó chịu, bực mình</b>. Có thể dễ dàng nhận biết khi câu có các trạng từ chỉ tần suất như <b>always, continually</b>
+Ex: She is always going to work late (Cô ấy lúc nào cũng đi làm muộn);
+***:Dấu hiệu nhận biết:
++ Các trạng từ hoặc cụm trạng từ chỉ thời gian, như: now, right now, at the moment, at present, at the present time, at + giờ cụ thể…
++ Các câu mệnh lệnh như: Look!, Listen!, Keep silent!,…;<<green>>
+***:Động từ thường không chia ở thì hiện tại tiếp diễn:
++ Appear: xuất hiện
++ Believe: tin tưởng
++ Belong: thuộc về
++ Contain: chứa đựng
++ Depend: phụ thuộc
++ Forget: quên
++ Hate: ghét
++ Hope: hy vọng
++ Know: biết
++ Lack: thiếu
++ Like: thích
++ Love: yêu
++ Mean: có nghĩa là
++ Need: cần
++ Prefer: thích hơn
++ Realize: nhận ra
++ Remember: nhớ
++ Seem: dường như/ có vẻ như
++ Sound: nghe có vẻ như
++ Suppose: cho rằng
++ Taste: nếm
++ Understand: hiểu biết
++ Want: muốn
++ Wish: ước;<<red>>
+
+left side
+
+** Hiện tại hoàn thành <<tense>>
+*** Công thức <<orange>>
+**** Thể khẳng định <<blue>>
+***** Subject + have/has + past participle + O <<khangdinh>>
+**** Thể phủ định <<blue>>
+***** Subject + have/has + not + past participle + O <<phudinh>>
+**** Thể nghi vấn <<blue>>
+***** Have/has + subject + past participle + O? <<nghivan>>
+******: Điểm ngữ pháp đặc biệt: 
++ Đã từng làm gì đó mang tính <b>trải nghiệm</b> 
+Ex: Have you ever watched this movie before?;
+***: Diễn tả hành động đã được bắt đầu từ quá khứ nhưng vẫn kéo dài cho tới hiện tại
+Ex: We have worked at this company since 2011.;
+***: Diễn tả hành động được bắt đầu trong quá khứ, không đề cập thời điểm cụ thể, 
+nhưng ở hiện tại, kết quả của hành động có vẫn có sức ảnh hưởng.
+Ex: She has broken up with her boyfriend (so she is very sad now.)
+-> Cô ấy vừa chia tay với bạn trai, kết quả là ở thời điểm hiện tại cô ấy đang rất buồn.;
+***: Diễn đạt một hành động đã xảy ra nhiều lần từ quá khứ đến hiện tại
+Ex: We have visited them many times. (Chúng tôi ghé thăm họ nhiều lần.);
+***: Dùng với so sánh hơn nhất và các cụm The first/ last/ second…
+Ex: This is <b>the best</b> movie i have ever seen.;
+***: Diễn tả hành động đã xảy ra trong một khoảng thời gian nhưng tới thời điểm hiện tại vẫn chưa kết thúc.
+Ex: We have not met her this month.
+-> Khoảng thời gian trong câu này là “this month” và nó chưa kết thúc. Thời điểm nói vẫn thuộc tháng này, chưa sang tháng mới.;
+***:Dấu hiệu nhận biết:
++ Just
++ Already
++ Before
++ Yet
++ Ever
++ Never
++ Recently
++ So far
++ For + khoảng thời gian (for a long time, for 2 years)
++ Since + khoảng thời gian (since 2000, since 1995);<<green>>
+*** Phân biệt “Have gone to” và “Have been to”
+**** Have been to: Đi đến đâu đó và <b>đã trở về</b>\nNhấn mạnh sự trải nghiệm(dùng với các  trạng từ chỉ số lần và từ chỉ số lượng)
+**** Have gone to: Đi đến đâu đó và <b>chưa trở về</b>
+
+** Hiện tại hoàn thành tiếp diễn <<tense>>
+*** Công thức <<orange>>
+**** Thể khẳng định <<blue>>
+***** Subject + have/has + been + V_ing + O <<khangdinh>>
+**** Thể phủ định <<blue>>
+***** Subject + have/has + not + been + V_ing + O <<phudinh>>
+**** Thể nghi vấn <<blue>>
+***** Have/has + subject + been + V_ing + O? <<nghivan>>
+*** Dùng để diễn tả một hành động bắt đầu trong quá khứ và kéo dài đến hiện tại (Nhấn mạnh tính “liên tục” của hành động)
+*** Dùng để diễn tả hành động đã xảy ra, vừa mới kết thúc nhưng kết quả của hành động vẫn có thể nhìn thấy được ở hiện tại (Nhấn mạnh kết quả của hành động)
+***:Dấu hiệu nhận biết:
+Thì hiện tại hoàn thành tiếp diễn thường xuất hiện những <b>mốc thời gian cụ thể và không cụ thể</b> là: 
++ All day
++ All week
++ Since
++ For
++ For a long time
++ In the past week
++ Recently 
++ Lately
++ Up until now
++ So far
++ Almost every day this week
++ In recent years,…;<<green>>
+
+
+
+*:Phân biệt:
+Quá khứ đơn vs Hiện tại hoàn thành;
+
+** Quá khứ đơn <<tense>>
+*** Chỉ nói về quá khứ (không liên quan đến hiện tại)
+*** Đề cập đến mốc thời gian cụ thể
+*** Sử dụng những cụm từ thể hiện mốc thời gian đã hoàn tất trong quá khứ
+
+right side
+
+** Hiện tại hoàn thành <<tense>>
+*** Có sự liên kết giữa quá khứ và hiện tại
+*** KHÔNG đề cập đến một khoảng thời gian cụ thể trong quá khứ
+*** Sử dụng những cụm từ thể hiện mốc thời gian được đề cập chưa kết thúc
+
+
+*:Phân biệt:
+Hiện tại hoàn thành vs Hiện tại hoàn thành tiếp diễn;
+
+** Hiện tại hoàn thành <<tense>>
+*** Diễn tả một hành động <b>đã hoàn thành xong</b>
+*** Tập trung vào <b>kết quả</b>
+*** Thể hiện <b>“Bao nhiêu”</b> (Trả lời câu hỏi <b>“How many/ How much?”</b>)
+***: Sử dụng với “for, since, và how” để nói về trạng thái đang diễn ra
+Lưu ý: Các động từ trạng thái bao gồm know, understand, acknowledge, … và chúng thường sẽ không đi với thể tiếp diễn.
+(hiện text riêng, thể hiện lưu ý cho ng nghe);
+***:Diễn tả 1 hành động mang tính <b>lâu dài hơn</b>.
+Ex: She has run a lot for 3 years → Hành động bền bỉ, thói quen lâu dài;
+***:Lưu ý:
+Trường hợp 1: Khi được sử dụng với những động từ như “live/ work/ study”, việc sử dụng 1 trong 2 thời đều không thay đổi nghĩa của câu.
+Trường hợp 2: Khi trong câu có đề cập đến thời gian, HIỆN TẠI HOÀN THÀNH Tiếp diễn nhấn mạnh về thời gian hơn. Trong khi thì hiện tại hoàn thành mang tính trung lập.;
+
+left side
+
+** Hiện tại hoàn thành tiếp diễn <<tense>>
+*** Diễn tả hành động vẫn <b>đang tiếp tục cho đến hiện tại</b>
+*** Tập trung vào <b>hành động</b>
+*** Thể hiện <b>“Bao lâu”</b> (Trả lời câu hỏi <b>“How long?”</b>)
+*** Sử dụng với “for, since, và how” để nói về hành động đang diễn ra/ được lặp lại
+***:Nhấn mạnh 1 hành động nào đó là <b>tạm thời</b>
+Ex: She has been running a lot recently.
+(Cô ấy không thường xuyên chạy, gần đây cô ấy mới chạy nhiều → hành động tạm thời);
+***:Lưu ý:
+Trường hợp 1: Khi được sử dụng với những động từ như “live/ work/ study”, việc sử dụng 1 trong 2 thời đều không thay đổi nghĩa của câu.
+Trường hợp 2: Khi trong câu có đề cập đến thời gian, HIỆN TẠI HOÀN THÀNH Tiếp diễn nhấn mạnh về thời gian hơn. Trong khi thì hiện tại hoàn thành mang tính trung lập.;
+
+
+@endmindmap

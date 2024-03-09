@@ -1,0 +1,49 @@
+@startmindmap
+<style>
+    mindmapDiagram {
+        .tense {
+            BackgroundColor black
+            FontColor white
+        }
+        .green {
+            BackgroundColor lightgreen
+        }
+        .rose {
+            BackgroundColor #FFBBCC
+        }
+        .orange {
+            BackgroundColor orange
+        }
+        .blue {
+            BackgroundColor LightBlue
+        }
+        .red {
+            BackgroundColor red
+        }
+        .khangdinh {
+            BackgroundColor LightCoral
+        }
+        .phudinh {
+            BackgroundColor LightCyan
+        }
+        .nghivan {
+            BackgroundColor LightSalmon
+        }
+    }
+</style>
+
+* Phân biệt
+
+** Quá khứ đơn <<tense>>
+*** Chỉ nói về quá khứ (không liên quan đến hiện tại)
+*** Đề cập đến mốc thời gian cụ thể
+*** Sử dụng những cụm từ thể hiện mốc thời gian đã hoàn tất trong quá khứ
+
+left side
+
+** Hiện tại hoàn thành <<tense>>
+*** Có sự liên kết giữa quá khứ và hiện tại
+*** KHÔNG đề cập đến một khoảng thời gian cụ thể trong quá khứ
+*** Sử dụng những cụm từ thể hiện mốc thời gian được đề cập chưa kết thúc
+
+@endmindmap
